@@ -2,7 +2,7 @@
 enum mytypes {myint, mydouble, mychar};
 
 /*define an array of three characters
-each holds a struct, each struct has two fields - enum & union
+each hold a struct, each struct has two fields - enum & union
 the union has three optinal variables - int, double & char*/
 struct st {
     
