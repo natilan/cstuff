@@ -1,8 +1,8 @@
 #include <stdio.h>
 enum mytypes {myint, mydouble, mychar};
 
-/*define an array of three charcters
-in each hold a struct, each struct has two fields - enum & union
+/*define an array of three characters
+each holds a struct, each struct has two fields - enum & union
 the union has three optinal variables - int, double & char*/
 struct st {
     
